@@ -45,7 +45,7 @@ Last Updated on June 16, 2021
 - [SFM Player Models](https://gamebanana.com/mods/198801)
 - [Stylized Slanted Crit and Mini-crit Icons](https://gamebanana.com/mods/12255)
 - [Subtle Lens Flares](https://gamebanana.com/mods/11865)
-- [TF2 Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack)
+- [TF2 Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack/releases)
 
 # Note
 The HUD mod which changes overall HUD and hit/killsounds are not included in the modpack, to allow people to use the hud and hitsound mod you wish to use.
