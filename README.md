@@ -40,7 +40,6 @@ Last Updated on June 16, 2021
 - [Altered Bullet Impact](https://gamebanana.com/mods/12384)
 - [Altered Short Circuit](https://gamebanana.com/mods/11900)
 - [Altered Jump Trails + Airblast Deflect](https://gamebanana.com/mods/11896)
-- [HD Giblet Pack](https://gamebanana.com/mods/287042)
 - [Non-Overlapping "Meet The Team" Blood](https://gamebanana.com/mods/12372)
 - [Robot animation fixes](https://gamebanana.com/mods/206443)
 - [SFM Player Models](https://gamebanana.com/mods/198801)
