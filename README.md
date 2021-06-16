@@ -10,12 +10,11 @@ Last Updated on June 16, 2021
 - [mastercomfig](https://mastercomfig.com)
 
 ### Sound Mods
-- [Administrator Killstreaks Sound Script](https://gamebanana.com/sounds/26347)
 - [Enhanced MVM Bomb Deployment Sounds](https://gamebanana.com/sounds/33388)
 - [Heavy "Jeers04" replacement](https://gamebanana.com/sounds/50373)
 - [More Musical TF2](https://gamebanana.com/sounds/53978)
 - [MVM siren restored](https://gamebanana.com/sounds/48510)
-- [MYM Badge Domination/Nemesis/Revenge Sounds ](https://gamebanana.com/sounds/44570)
+- [MYM Badge Domination/Nemesis/Revenge Sounds](https://gamebanana.com/sounds/44570)
 - [Higher Quality Vote Sounds](https://gamebanana.com/sounds/48141)
 - [HL2 EP2 Silo alarm for MvM](https://gamebanana.com/sounds/19645)
 - [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
@@ -23,6 +22,7 @@ Last Updated on June 16, 2021
 - [Pre-Jungle Inferno Weapon Sounds](https://gamebanana.com/sounds/39140)
 - [QeaML's Supply Closet Sound](https://gamebanana.com/sounds/32143)
 - [realistic robot stun fixed](https://gamebanana.com/sounds/44213)
+- [TF2 Casual Lvl Up 5 Killstreak](TF2 Casual Lvl Up 5 Killstreak)
 - [TF2C Class Selection](https://gamebanana.com/sounds/54000)
 - [The Art of War Intel](https://gamebanana.com/sounds/21966)
 - [Unused Upgrade Station Queue Music](https://gamebanana.com/sounds/50979)
