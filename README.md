@@ -4,7 +4,7 @@ Team Fortress 2 Enhanced is the modpack focused on improving overall visuals and
 Due to license issue, the modpack will not be available, so you must download it on their mod page manually.
 
 # List of Mods
-Last Updated on June 16, 2021
+Last Updated on June 18, 2021
 
 ### Optimization Mod (Recommended)
 - [mastercomfig](https://mastercomfig.com)
