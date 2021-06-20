@@ -61,6 +61,8 @@ These mods are optional and not really required.
 - [e.v.e HUD: kleen edition](https://gamebanana.com/mods/293211)
 - [Quake 3 arena Hitsound and Killsound](https://gamebanana.com/sounds/32458)
 - [42 Custom TF2 Crosshairs](https://gamebanana.com/mods/12523)
+- [HD TF2 Loading Screens](https://gamebanana.com/mods/285046)
+- [Jack5's main menu backgrounds](https://gamebanana.com/mods/25578)
 
 # Note
 Before installing mods, please read the description and installation carefully. Mystic Moonlight has no responsiblity about these mods!
