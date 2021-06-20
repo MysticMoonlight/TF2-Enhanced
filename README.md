@@ -4,7 +4,7 @@ Team Fortress 2 Enhanced is the modpack focused on improving overall visuals and
 Due to license issue, the modpack will not be available, so you must download it on their mod page manually.
 
 # List of Mods
-Last Updated on June 18, 2021
+Last Updated on June 20, 2021
 
 ### Optimization Mod (Recommended)
 - [mastercomfig](https://mastercomfig.com)
@@ -33,6 +33,7 @@ Last Updated on June 18, 2021
 - [Consistent and Missing Kill Icons](https://gamebanana.com/mods/25953)
 - [Improved Canteen Icons Revived](https://gamebanana.com/mods/25843)
 - [Improved MVM Robot HUD | V2.1 out now!](https://gamebanana.com/mods/25178)
+- [Missing Map Loading Photos](https://gamebanana.com/mods/7494)
 - [Potassium's Menu Characters Overhaul](https://gamebanana.com/mods/294786)
 - [Team Fortress 2 Classic Class Portraits](https://gamebanana.com/mods/26067)
 
@@ -41,16 +42,27 @@ Last Updated on June 18, 2021
 - [Altered Bullet Impact](https://gamebanana.com/mods/12384)
 - [Altered Short Circuit](https://gamebanana.com/mods/11900)
 - [Altered Jump Trails + Airblast Deflect](https://gamebanana.com/mods/11896)
+- [Animated Computers](https://gamebanana.com/mods/199838)
+- [Beta Blast Door](https://gamebanana.com/mods/199779)
+- [Clean World Textures](https://gamebanana.com/mods/7588)
+- [Improved Surface Properties](https://gamebanana.com/mods/36744)
 - [Non-Overlapping "Meet The Team" Blood](https://gamebanana.com/mods/12372)
+- [Reflective Water](https://gamebanana.com/mods/7560)
 - [Robot animation fixes](https://gamebanana.com/mods/206443)
 - [SFM Player Models](https://gamebanana.com/mods/198801)
 - [Stylized Slanted Crit and Mini-crit Icons](https://gamebanana.com/mods/12255)
 - [Subtle Lens Flares](https://gamebanana.com/mods/11865)
+- [Team Fortress 2 Classic Ports: Animated World Maps](https://gamebanana.com/mods/7561)
 - [TF2 Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack/releases)
+- [Trees Sway](https://gamebanana.com/mods/36719)
+
+### (Optional) HUD and hitsound, crosshair mod I use
+These mods are optional and not really required.
+- [e.v.e HUD: kleen edition](https://gamebanana.com/mods/293211)
+- [Quake 3 arena Hitsound and Killsound](https://gamebanana.com/sounds/32458)
+- [42 Custom TF2 Crosshairs](https://gamebanana.com/mods/12523)
 
 # Note
-The HUD mod which changes overall HUD and hit/killsounds are not included in the modpack, to allow people to use the hud and hitsound mod you wish to use.
-
 Before installing mods, please read the description and installation carefully. Mystic Moonlight has no responsiblity about these mods!
 
 Valve, the Valve logo, Steam, the Steam logo, Team Fortress, the Team Fortress logo, Source, the Source logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
