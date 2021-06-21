@@ -39,6 +39,7 @@ Last Updated on June 20, 2021
 
 ### Visual Mods
 - [2007 Weapon Lightwarp](https://gamebanana.com/mods/205352)
+- [2007-Styled Weapon Pack](https://gamebanana.com/mods/198560)
 - [Altered Bullet Impact](https://gamebanana.com/mods/12384)
 - [Altered Short Circuit](https://gamebanana.com/mods/11900)
 - [Altered Jump Trails + Airblast Deflect](https://gamebanana.com/mods/11896)
