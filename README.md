@@ -3,8 +3,11 @@ Team Fortress 2 Enhanced is the modpack focused on improving overall visuals and
 
 Due to license issue, the modpack will not be available, so you must download it on their mod page manually.
 
+# Changelog
+See [here](https://github.com/MysticMoonlight/TF2-Enhanced/blob/main/CHANGELOG.md).
+
 # List of Mods
-Last Updated on June 20, 2021
+Last Updated on June 22, 2021
 
 ### Optimization Mod (Recommended)
 - [mastercomfig](https://mastercomfig.com)
@@ -47,10 +50,12 @@ Last Updated on June 20, 2021
 - [Beta Blast Door](https://gamebanana.com/mods/199779)
 - [Clean World Textures](https://gamebanana.com/mods/7588)
 - [Improved Surface Properties](https://gamebanana.com/mods/36744)
+- [Mat_Picmip -10 Texture Fix Pack](https://gamebanana.com/mods/198036)
 - [Non-Overlapping "Meet The Team" Blood](https://gamebanana.com/mods/12372)
 - [Reflective Water](https://gamebanana.com/mods/7560)
 - [Robot animation fixes](https://gamebanana.com/mods/206443)
 - [SFM Player Models](https://gamebanana.com/mods/198801)
+- [Slightly Centered Viewmodels - The All-In-One Pack](https://gamebanana.com/mods/205759) ([Mod Showcase](https://www.youtube.com/watch?v=aHS6AxdHvcw))
 - [Stylized Slanted Crit and Mini-crit Icons](https://gamebanana.com/mods/12255)
 - [Subtle Lens Flares](https://gamebanana.com/mods/11865)
 - [Team Fortress 2 Classic Ports: Animated World Maps](https://gamebanana.com/mods/7561)
