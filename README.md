@@ -13,7 +13,6 @@ Last Updated on June 22, 2021
 - [mastercomfig](https://mastercomfig.com)
 
 ### Sound Mods
-- [Dynamic CTF Soundtrack](https://gamebanana.com/sounds/53963)
 - [Dynamic KOTH/CP Soundtrack](https://gamebanana.com/sounds/53977)
 - [Enhanced MVM Bomb Deployment Sounds](https://gamebanana.com/sounds/33388)
 - [Heavy "Jeers04" replacement](https://gamebanana.com/sounds/50373)
@@ -23,6 +22,7 @@ Last Updated on June 22, 2021
 - [Higher Quality Vote Sounds](https://gamebanana.com/sounds/48141)
 - [HL2 EP2 Silo alarm for MvM](https://gamebanana.com/sounds/19645)
 - [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
+- [Intuder Alert for CTF](https://gamebanana.com/sounds/54423)
 - [Payload Improved Explosion](https://gamebanana.com/sounds/10212)
 - [Pre-Jungle Inferno Weapon Sounds](https://gamebanana.com/sounds/39140)
 - [QeaML's Supply Closet Sound](https://gamebanana.com/sounds/32143)
@@ -33,6 +33,7 @@ Last Updated on June 22, 2021
 
 ### Small UI Mods
 - [Alternate Class Portraits (Full Version)](https://gamebanana.com/mods/26024)
+- [TF2 - Another Closed Captions Project!](https://gamebanana.com/mods/25151)
 - [Consistent and Missing Kill Icons](https://gamebanana.com/mods/25953)
 - [Improved Canteen Icons Revived](https://gamebanana.com/mods/25843)
 - [Improved MVM Robot HUD | V2.1 out now!](https://gamebanana.com/mods/25178)
