@@ -66,7 +66,8 @@ Last Updated on July 2, 2021
 ### (Optional) HUD and hitsound, crosshair mod I use
 These mods are optional and not really required.
 - [e.v.e HUD: kleen edition](https://gamebanana.com/mods/293211)
-- [Quake 3 arena Hitsound and Killsound](https://gamebanana.com/sounds/32458)
+- [Quake III Arena hit indicator](https://gamebanana.com/sounds/21865)
+- [Bonk killsound(real)](https://gamebanana.com/sounds/46728)
 - [42 Custom TF2 Crosshairs](https://gamebanana.com/mods/12523)
 - [HD TF2 Loading Screens](https://gamebanana.com/mods/285046)
 - [Jack5's main menu backgrounds](https://gamebanana.com/mods/25578)
