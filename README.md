@@ -25,6 +25,7 @@ Last Updated on July 2, 2021
 - [Pre-Jungle Inferno Weapon Sounds](https://gamebanana.com/sounds/39140)
 - [QeaML's Supply Closet Sound](https://gamebanana.com/sounds/32143)
 - [realistic robot stun fixed](https://gamebanana.com/sounds/44213)
+- [TF2 Casual Lvl Up 5 Killstreak](https://gamebanana.com/sounds/49214)
 - [TF2C Class Selection](https://gamebanana.com/sounds/54000)
 
 ### Small UI Mods
