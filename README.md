@@ -13,23 +13,19 @@ Last Updated on July 2, 2021
 - [mastercomfig](https://mastercomfig.com)
 
 ### Sound Mods
-- [Dynamic KOTH/CP Soundtrack](https://gamebanana.com/sounds/53977)
 - [Enhanced MVM Bomb Deployment Sounds](https://gamebanana.com/sounds/33388)
 - [Heavy "Jeers04" replacement](https://gamebanana.com/sounds/50373)
-- [More Musical TF2](https://gamebanana.com/sounds/53978)
+- [More Musical TF2 Events (Director's Cut)](https://gamebanana.com/sounds/53978)
 - [MVM siren restored](https://gamebanana.com/sounds/48510)
 - [MYM Badge Domination/Nemesis/Revenge Sounds](https://gamebanana.com/sounds/44570)
 - [Higher Quality Vote Sounds](https://gamebanana.com/sounds/48141)
 - [HL2 EP2 Silo alarm for MvM](https://gamebanana.com/sounds/19645)
 - [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
-- [Intuder Alert for CTF](https://gamebanana.com/sounds/54423)
 - [Payload Improved Explosion](https://gamebanana.com/sounds/10212)
 - [Pre-Jungle Inferno Weapon Sounds](https://gamebanana.com/sounds/39140)
 - [QeaML's Supply Closet Sound](https://gamebanana.com/sounds/32143)
 - [realistic robot stun fixed](https://gamebanana.com/sounds/44213)
-- [TF2 Casual Lvl Up 5 Killstreak](https://gamebanana.com/sounds/49214)
 - [TF2C Class Selection](https://gamebanana.com/sounds/54000)
-- [Unused Upgrade Station Queue Music](https://gamebanana.com/sounds/50979)
 
 ### Small UI Mods
 - [Alternate Class Portraits (Full Version)](https://gamebanana.com/mods/26024)
