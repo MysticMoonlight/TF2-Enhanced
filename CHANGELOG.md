@@ -4,7 +4,6 @@ Due to conflict issue after update of [More Musical TF2 Events](https://gamebana
 - [Dynamic KOTH/CP Soundtrack](https://gamebanana.com/sounds/53977)
 - [Intuder Alert for CTF](https://gamebanana.com/sounds/54423)
 - [Unused Upgrade Station Queue Music](https://gamebanana.com/sounds/50979)
-- [TF2 Casual Lvl Up 5 Killstreak](https://gamebanana.com/sounds/49214)
 
 #### July 2, 2021
 - Added showcase video next to mod link, if possible
