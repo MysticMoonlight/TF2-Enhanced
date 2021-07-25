@@ -3,6 +3,8 @@ Team Fortress 2 Enhanced is the modpack focused on improving overall visuals and
 
 Due to license issue, the modpack will not be available, so you must download it on their mod page manually.
 
+**NOTE:** This modpack may not work properly on sv_pure 1 servers(e.g. Skial, Valve Official Server, etc), use at own risk if you play on these servers.
+
 # Changelog
 See [here](https://github.com/MysticMoonlight/TF2-Enhanced/blob/main/CHANGELOG.md).
 
@@ -16,7 +18,6 @@ Last Updated on July 2, 2021
 - [Enhanced MVM Bomb Deployment Sounds](https://gamebanana.com/sounds/33388)
 - [Heavy "Jeers04" replacement](https://gamebanana.com/sounds/50373)
 - [More Musical TF2 Events (Director's Cut)](https://gamebanana.com/sounds/53978)
-- [MVM siren restored](https://gamebanana.com/sounds/48510)
 - [MYM Badge Domination/Nemesis/Revenge Sounds](https://gamebanana.com/sounds/44570)
 - [Higher Quality Vote Sounds](https://gamebanana.com/sounds/48141)
 - [HL2 EP2 Silo alarm for MvM](https://gamebanana.com/sounds/19645)
@@ -53,12 +54,18 @@ Last Updated on July 2, 2021
 - [Reflective Water](https://gamebanana.com/mods/7560)
 - [Robot animation fixes](https://gamebanana.com/mods/206443)
 - [SFM Player Models](https://gamebanana.com/mods/198801)
-- [Slightly Centered Viewmodels - The All-In-One Pack](https://gamebanana.com/mods/205759) ([Mod Showcase](https://www.youtube.com/watch?v=aHS6AxdHvcw))
 - [Stylized Slanted Crit and Mini-crit Icons](https://gamebanana.com/mods/12255)
 - [Subtle Lens Flares](https://gamebanana.com/mods/11865)
 - [Team Fortress 2 Classic Ports: Animated World Maps](https://gamebanana.com/mods/7561)
 - [TF2 Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack/releases)
 - [Trees Sway](https://gamebanana.com/mods/36719)
+
+### Weapon Animation Mods
+- [Kylul's Scout First Person Animation Pack V1](https://gamebanana.com/mods/206351)
+- [Kylul's Sniper FPS Reanimation Pack V1.1](https://gamebanana.com/mods/206369)
+- [Kylul's Pyro FP Reanimated V.1](https://gamebanana.com/mods/206311)
+- [Kylul's Soldier Animation Pack V1.1](https://gamebanana.com/mods/206373)
+- [Kylul's Spy Animation Pack V.1](https://gamebanana.com/mods/307980)
 
 ### (Optional) HUD and hitsound, crosshair mod I use
 These mods are optional and not really required.
