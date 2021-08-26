@@ -1,5 +1,15 @@
 ## Changelog
-### August 26, 2021 
+### 3.0.1 "Aloë" (August 26, 2021)
+#### Sound Mod changes
+- Removed [MYM Badge Domination/Nemesis/Revenge Sounds](https://gamebanana.com/sounds/44570) due to conflict (I forgot to consider about that conflict, I apologize)
+
+#### UI Mod changes
+- Added [Maggots' Overhauled Portaits (MOP) ](https://gamebanana.com/mods/26478)
+- Added [Main Menu Characters Overhaul](https://gamebanana.com/mods/294786)
+- Added [MLSPro's TF2 Intro Mod](https://gamebanana.com/mods/311302)
+- Removed [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400) due to conflict with any HUD mods
+
+### 3.0 (August 26, 2021)
 #### Sound Mod changes
 - Added back the following mods: [Dynamic KOTH/CP Soundtrack](https://gamebanana.com/sounds/53977), [Unused Upgrade Station Queue Music](https://gamebanana.com/sounds/50979), [MVM siren restored](https://gamebanana.com/sounds/48510)
 - Added [Team Fortress 2 Siren](https://gamebanana.com/sounds/48875)
@@ -23,13 +33,13 @@
 - Added [Icon Based Festives (2021)](https://gamebanana.com/mods/314047)
 
 
-### July 4, 2021
+### 2.0 (July 4, 2021)
 Due to conflict issue after update of [More Musical TF2 Events](https://gamebanana.com/sounds/53978), the following mods were removed:
 - [Dynamic KOTH/CP Soundtrack](https://gamebanana.com/sounds/53977)
 - [Intuder Alert for CTF](https://gamebanana.com/sounds/54423)
 - [Unused Upgrade Station Queue Music](https://gamebanana.com/sounds/50979)
 
-### June 26, 2021
+### 1.0 (June 26, 2021)
 - Added several Kylul's animation mods to the list
 - Added warning related to sv_pure 1 server compatiblity
 - Removed [MVM siren restored](https://gamebanana.com/sounds/48510) due to conflict with recent More Musical TF2 Events update

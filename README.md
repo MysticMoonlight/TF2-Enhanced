@@ -1,4 +1,4 @@
-# Team Fortress 2 Enhanced
+# Team Fortress 2 Enhanced 
 Team Fortress 2 Enhanced is the modpack focused on improving overall visuals and sound effects while keeping original TF2 atmosphere.
 
 Due to license issue, the modpack will not be available, so you must download it on their mod page manually.
@@ -44,8 +44,10 @@ Last Updated on July 2, 2021
 - [Consistent and Missing Kill Icons](https://gamebanana.com/mods/25953)
 - [Improved Canteen Icons Revived](https://gamebanana.com/mods/25843)
 - [Improved MVM Robot HUD | V2.1 out now!](https://gamebanana.com/mods/25178)
+- [Maggots' Overhauled Portaits (MOP) ](https://gamebanana.com/mods/26478)
+- [Main Menu Characters Overhaul](https://gamebanana.com/mods/294786)
 - [Missing Map Loading Photos](https://gamebanana.com/mods/7494)
-- [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400)
+- [MLSPro's TF2 Intro Mod](https://gamebanana.com/mods/311302)
 - [Source Text Refont [Better Looking Default Text]](https://gamebanana.com/mods/314848) (Optional, do not use if you use Linux and/or HUD which changes default font)
 - [TF2 - Another Closed Captions Project!](https://gamebanana.com/mods/25151)
 
