@@ -1,4 +1,9 @@
 ## Changelog
+### 3.0.2 "Aloë" (August 26, 2021)
+#### UI Mod changes
+- Removed [Absolutely HD Item Icons](https://gamebanana.com/mods/316151), it breaks every hud (Hopefully this change should fix the issue properly)
+
+
 ### 3.0.1 "Aloë" (August 26, 2021)
 #### Sound Mod changes
 - Removed [MYM Badge Domination/Nemesis/Revenge Sounds](https://gamebanana.com/sounds/44570) due to conflict (I forgot to consider about that conflict, I apologize)

@@ -38,7 +38,6 @@ Last Updated on July 2, 2021
 - [Voiceless End of Round Songs](https://gamebanana.com/sounds/30727)
 
 ### UI Mods
-- [Absolutely HD Item Icons](https://gamebanana.com/mods/316151)
 - [Alternate Class Portraits (Full Version)](https://gamebanana.com/mods/26024)
 - [Drastically Improved tf_english.txt](https://gamebanana.com/mods/314843)
 - [Consistent and Missing Kill Icons](https://gamebanana.com/mods/25953)
