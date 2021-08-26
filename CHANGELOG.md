@@ -4,7 +4,7 @@
 - Removed [MYM Badge Domination/Nemesis/Revenge Sounds](https://gamebanana.com/sounds/44570) due to conflict (I forgot to consider about that conflict, I apologize)
 
 #### UI Mod changes
-- Added [Maggots' Overhauled Portaits (MOP) ](https://gamebanana.com/mods/26478)
+- Added [Team Fortress 2 Classic Class Portraits](https://gamebanana.com/mods/26067)
 - Added [Main Menu Characters Overhaul](https://gamebanana.com/mods/294786)
 - Added [MLSPro's TF2 Intro Mod](https://gamebanana.com/mods/311302)
 - Removed [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400) due to conflict with any HUD mods
