@@ -20,7 +20,6 @@ Last Updated on July 2, 2021
 - [End of the Line 60 Seconds Remaining](https://gamebanana.com/sounds/26394)
 - [Enhanced MVM Bomb Deployment Sounds](https://gamebanana.com/sounds/33388)
 - [Heavy "Jeers04" replacement](https://gamebanana.com/sounds/50373)
-- [MYM Badge Domination/Nemesis/Revenge Sounds](https://gamebanana.com/sounds/44570)
 - [Higher Quality Vote Sounds](https://gamebanana.com/sounds/48141)
 - [HL2 EP2 Silo alarm for MvM](https://gamebanana.com/sounds/19645)
 - [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
