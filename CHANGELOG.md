@@ -1,4 +1,14 @@
 ## Changelog
+### 3.1 "Anemone" (September 1, 2021)
+#### Sound Mod changes
+- Added back the [More Musical TF2 Events](https://gamebanana.com/sounds/53978), but this time **it requires Standard Edition, NOT Definitive Edition**
+- Added the [Intruder alert for intel steal](https://gamebanana.com/sounds/42420), replacing the [The Art of War Intel](https://gamebanana.com/sounds/21966), due to having same track with More Musical TF2 Events Standard Edition
+- Removed [Meet the Scout Scattergun](https://gamebanana.com/sounds/55399), [Dynamic KOTH/CP Soundtrack](https://gamebanana.com/sounds/53977) due to not fitting with TF2 atmospheres
+- Removed [Team Fortress 2 Siren](https://gamebanana.com/sounds/48875), due to conflict with More Musical TF2 Events
+
+#### UI Mod changes
+- Replaced(Or you could say downgraded) [Consistent and Missing Kill Icons](https://gamebanana.com/mods/25953) with [Consistent Kill Icons fixed for Jungle Inferno](https://gamebanana.com/mods/26076) due to missing icon bug for some users
+
 ### 3.0.2 "Aloë" (August 26, 2021)
 #### UI Mod changes
 - Removed [Absolutely HD Item Icons](https://gamebanana.com/mods/316151), it breaks every hud (Hopefully this change should fix the issue properly)
