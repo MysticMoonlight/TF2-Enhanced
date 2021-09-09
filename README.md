@@ -65,7 +65,7 @@ Last Updated on July 2, 2021
 - [Reflective Water](https://gamebanana.com/mods/7560)
 - [Robot animation fixes](https://gamebanana.com/mods/206443)
 - [SFM Player Models](https://gamebanana.com/mods/198801)
-- [Stylized Slanted Crit and Mini-crit Icons](https://gamebanana.com/mods/12255)
+- [Simplified vanilla crit and mini crit effects](https://gamebanana.com/mods/12237)
 - [Subtle Lens Flares](https://gamebanana.com/mods/11865)
 - [Team Fortress 2 Classic Ports: Animated World Maps](https://gamebanana.com/mods/7561)
 - [TF2 Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack/releases)
