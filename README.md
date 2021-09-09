@@ -21,7 +21,7 @@ Last Updated on July 2, 2021
 - [Higher Quality Vote Sounds](https://gamebanana.com/sounds/48141)
 - [HL2 EP2 Silo alarm for MvM](https://gamebanana.com/sounds/19645)
 - [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
-- [Intruder alert for intel steal](https://gamebanana.com/sounds/42420)
+- [Intuder Alert for CTF](https://gamebanana.com/sounds/54423)
 - [Machina double kill fixed](https://gamebanana.com/sounds/16244)
 - [More Musical TF2 Events (Standard)](https://gamebanana.com/sounds/53978)
 - [MVM siren restored](https://gamebanana.com/sounds/48510)
@@ -32,7 +32,6 @@ Last Updated on July 2, 2021
 - [TF2 Casual Lvl Up 5 Killstreak](https://gamebanana.com/sounds/49214)
 - [TF2C Class Selection](https://gamebanana.com/sounds/54000)
 - [Unused Upgrade Station Queue Music](https://gamebanana.com/sounds/50979)
-- [Voiceless End of Round Songs](https://gamebanana.com/sounds/30727)
 
 ### UI Mods
 - [Alternate Class Portraits (Full Version)](https://gamebanana.com/mods/26024)
