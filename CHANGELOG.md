@@ -1,4 +1,9 @@
 ## Changelog
+### 3.2 "Australium" (September 9, 2021)
+#### Sound Mod changes
+- Replaced [Intruder alert for intel steal](https://gamebanana.com/sounds/42420) with [Intuder Alert for CTF](https://gamebanana.com/sounds/54423)
+- Removed Voiceless End of Round sound due to conflict
+
 ### 3.1 "Anemone" (September 1, 2021)
 #### Sound Mod changes
 - Added back the [More Musical TF2 Events](https://gamebanana.com/sounds/53978), but this time **it requires Standard Edition, NOT Definitive Edition**
