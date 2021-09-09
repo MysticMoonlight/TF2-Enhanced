@@ -1,7 +1,9 @@
 ## Changelog
 ### 3.2 "Australium" (September 9, 2021)
 #### Sound Mod changes
+- Added [Simplified vanilla crit and mini crit effects](https://gamebanana.com/mods/12237)
 - Replaced [Intruder alert for intel steal](https://gamebanana.com/sounds/42420) with [Intuder Alert for CTF](https://gamebanana.com/sounds/54423)
+- Removed [Stylized Slanted Crit and Mini-crit Icons](https://gamebanana.com/mods/12255) (Mod trashed, reason is unknown)
 - Removed Voiceless End of Round sound due to conflict
 
 ### 3.1 "Anemone" (September 1, 2021)
