@@ -34,17 +34,20 @@ Last Updated on July 2, 2021
 - [Unused Upgrade Station Queue Music](https://gamebanana.com/sounds/50979)
 
 ### UI Mods
+#### Required
 - [Alternate Class Portraits (Full Version)](https://gamebanana.com/mods/26024)
-- [Drastically Improved tf_english.txt](https://gamebanana.com/mods/314843)
 - [Consistent Kill Icons fixed for Jungle Inferno](https://gamebanana.com/mods/26076)
 - [Improved Canteen Icons Revived](https://gamebanana.com/mods/25843)
 - [Improved MVM Robot HUD | V2.1 out now!](https://gamebanana.com/mods/25178)
 - [Main Menu Characters Overhaul](https://gamebanana.com/mods/294786)
 - [Missing Map Loading Photos](https://gamebanana.com/mods/7494)
 - [MLSPro's TF2 Intro Mod](https://gamebanana.com/mods/311302)
-- [Source Text Refont [Better Looking Default Text]](https://gamebanana.com/mods/314848) (Optional, do not use if you use Linux and/or HUD which changes default font)
 - [Team Fortress 2 Classic Class Portraits](https://gamebanana.com/mods/26067)
 - [TF2 - Another Closed Captions Project!](https://gamebanana.com/mods/25151)
+
+#### Optional
+- [Drastically Improved tf_english.txt](https://gamebanana.com/mods/314843) (Do not use if you use HUD which replaces tf_english.txt)
+- [Source Text Refont [Better Looking Default Text]](https://gamebanana.com/mods/314848) (Do not use if you use Linux and/or HUD which changes default font)
 
 ### Visual Mods
 - [2007 Weapon Lightwarp](https://gamebanana.com/mods/205352)
