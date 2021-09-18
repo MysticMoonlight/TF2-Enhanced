@@ -15,7 +15,7 @@ Last Updated on July 2, 2021
 - [mastercomfig](https://mastercomfig.com)
 
 ### Sound Mods
-- ["Better" Default Domination and Revenge](https://gamebanana.com/sounds/54940)
+- [MYM Badge Domination/Nemesis/Revenge Sounds](https://gamebanana.com/sounds/44570)
 - [Enhanced MVM Bomb Deployment Sounds](https://gamebanana.com/sounds/33388)
 - [Heavy "Jeers04" replacement](https://gamebanana.com/sounds/50373)
 - [Higher Quality Vote Sounds](https://gamebanana.com/sounds/48141)
