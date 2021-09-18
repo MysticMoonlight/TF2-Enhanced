@@ -1,4 +1,12 @@
 ## Changelog
+### 3.3 "Administrator" (September 18, 2021)
+#### Sound mod changes
+- Domination sound reverted back to MYM Badge Domination/Nemesis/Revenge Sounds
+- Removed ["Better" Default Domination and Revenge](https://gamebanana.com/sounds/54940) due to missing sound
+
+#### Recommended Mod changes
+- Added COOL HUD, replacing e.v.e. HUD kleen edition
+
 ### 3.2 "Australium" (September 9, 2021)
 #### Sound Mod changes
 - Added [Simplified vanilla crit and mini crit effects](https://gamebanana.com/mods/12237)
