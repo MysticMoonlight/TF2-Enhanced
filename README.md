@@ -79,11 +79,10 @@ Last Updated on July 2, 2021
 - [Kylul's Spy Animation Pack V.1](https://gamebanana.com/mods/307980)
 
 ### (Optional) HUD and hitsound, crosshair mod I use
-These mods are optional and not really required.
-- [e.v.e HUD: kleen edition](https://gamebanana.com/mods/293211)
-- [Quake III Arena hit indicator](https://gamebanana.com/sounds/21865)
-- [Bonk killsound(real)](https://gamebanana.com/sounds/46728)
-- [42 Custom TF2 Crosshairs](https://gamebanana.com/mods/12523)
+These mods are optional and not really required, but recommended.
+- [COOL HUD](https://gamebanana.com/mods/26080)
+- [Quake Mod (Hitsound)](https://huds.tf/site/s-Quake-Mod)
+- [Sonic Ring Killsound](https://huds.tf/site/s-Sonic-Ring-Killsound)
 - [HD TF2 Loading Screens](https://gamebanana.com/mods/285046)
 - [Jack5's main menu backgrounds](https://gamebanana.com/mods/25578)
 
