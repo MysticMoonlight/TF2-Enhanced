@@ -36,6 +36,7 @@ Last Updated on July 2, 2021
 ### UI Mods
 #### Required
 - [Alternate Class Portraits (Full Version)](https://gamebanana.com/mods/26024)
+- [Better In-Game Voice Chat Icons](https://gamebanana.com/mods/324990)
 - [Consistent Kill Icons fixed for Jungle Inferno](https://gamebanana.com/mods/26076)
 - [Improved Canteen Icons Revived](https://gamebanana.com/mods/25843)
 - [Improved MVM Robot HUD | V2.1 out now!](https://gamebanana.com/mods/25178)
@@ -70,6 +71,7 @@ Last Updated on July 2, 2021
 - [Team Fortress 2 Classic Ports: Animated World Maps](https://gamebanana.com/mods/7561)
 - [TF2 Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack/releases)
 - [Trees Sway](https://gamebanana.com/mods/36719)
+- [Unique Rockets](https://gamebanana.com/mods/324446)
 
 ### Weapon Animation Mods
 - [Kylul's Scout First Person Animation Pack V1](https://gamebanana.com/mods/206351)
