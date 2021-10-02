@@ -1,5 +1,5 @@
 ## Changelog
-### 4.0 "Blutach Mann"
+### 4.0 "Blutach Mann" (October 2, 2021)
 #### Additions
 - [Better In-Game Voice Chat Icons](https://gamebanana.com/mods/324990)
 - [Unique Rockets](https://gamebanana.com/mods/324446)
