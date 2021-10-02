@@ -1,4 +1,9 @@
 ## Changelog
+### 4.0 "Blutach Mann"
+#### Additions
+- [Better In-Game Voice Chat Icons](https://gamebanana.com/mods/324990)
+- [Unique Rockets](https://gamebanana.com/mods/324446)
+
 ### 3.3 "Administrator" (September 18, 2021)
 #### Sound mod changes
 - Domination sound reverted back to MYM Badge Domination/Nemesis/Revenge Sounds
