@@ -1,4 +1,13 @@
 ## Changelog
+### 4.1 "Bloodwater" (October 13, 2021)
+Happy Halloween mortals! We are happy to announce the new release of Team Fortress 2: Enhanced! This time it adds 2 new halloween mod. It will be available until the halloween ends on live TF2.
+
+Please note that these mods must be put in high priority! Otherwise there will be issue with conflicts!
+
+#### Additions
+- [Scream Fortress 2 Logo](https://gamebanana.com/mods/325483)
+- [TF2 Dynamic Music Mod - HALLOWEEN SPECIAL](https://gamebanana.com/sounds/56638)
+
 ### 4.0 "Blutach Mann" (October 2, 2021)
 #### Additions
 - [Better In-Game Voice Chat Icons](https://gamebanana.com/mods/324990)
