@@ -1,4 +1,4 @@
-# Team Fortress 2 Enhanced 
+# Team Fortress 2: Enhanced 
 Team Fortress 2 Enhanced is the modpack focused on improving overall visuals and sound effects while keeping original TF2 atmosphere.
 
 Due to license issue, the modpack will not be available, so you must download it on their mod page manually.
@@ -9,7 +9,11 @@ Due to license issue, the modpack will not be available, so you must download it
 See [here](https://github.com/MysticMoonlight/TF2-Enhanced/blob/main/CHANGELOG.md).
 
 # List of Mods
-Last Updated on October 2, 2021
+Last Updated on October 13, 2021
+
+### Scream Fortress Special mods (Must be put in high priority than other mods!)
+- [Scream Fortress 2 Logo](https://gamebanana.com/mods/325483)
+- [TF2 Dynamic Music Mod - HALLOWEEN SPECIAL](https://gamebanana.com/sounds/56638)
 
 ### Optimization Mod (Recommended)
 - [mastercomfig](https://mastercomfig.com)
