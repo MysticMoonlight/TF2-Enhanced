@@ -1,4 +1,18 @@
 ## Changelog
+### 4.2 "Brimstone" (October 16, 2021)
+Happy Halloween mortals! Welcome to minor update of version 4 series. This change includes graphical improvements(Mainly TF2C to Live TF2 backports) and fixes. Starting from 4.2, **All HUDS.TF related mods are removed permanently and ended support for all mods from HUDS.TF.**
+
+#### Additions
+- [Giblet Overhaul (TF2C Blood)](https://gamebanana.com/mods/288308)
+- [High Poly Non-HWM Playermodels! (Live TF2 Port)](https://gamebanana.com/mods/198508)
+- [Mugg's Corpse Carrier](https://gamebanana.com/mods/328325)
+- [Team Fortress 2 Classic Texture Port](https://gamebanana.com/mods/328302)
+- Added optional mods category
+- Recommended mods are changed
+
+#### Removal
+- [SFM Player Models](https://gamebanana.com/mods/198801)
+
 ### 4.1 "Bloodwater" (October 13, 2021)
 Happy Halloween mortals! We are happy to announce the new release of Team Fortress 2: Enhanced! This time it adds 2 new halloween mod. It will be available until the halloween ends on live TF2.
 
