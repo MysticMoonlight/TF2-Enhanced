@@ -9,7 +9,7 @@ Due to license issue, the modpack will not be available, so you must download it
 See [here](https://github.com/MysticMoonlight/TF2-Enhanced/blob/main/CHANGELOG.md).
 
 # List of Mods
-Last Updated on October 16, 2021
+Last Updated on October 19, 2021
 
 ### Optimization Mod (Recommended)
 - [mastercomfig](https://mastercomfig.com)
@@ -21,6 +21,7 @@ Last Updated on October 16, 2021
 - [HL2 EP2 Silo alarm for MvM](https://gamebanana.com/sounds/19645)
 - [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
 - [Intuder Alert for CTF](https://gamebanana.com/sounds/54423)
+- [Killstreak Announcer Voicelines](https://gamebanana.com/sounds/56867)
 - [Machina double kill fixed](https://gamebanana.com/sounds/16244)
 - [More Musical TF2 Events (Standard)](https://gamebanana.com/sounds/53978)
 - [MVM siren restored](https://gamebanana.com/sounds/48510)
@@ -29,8 +30,8 @@ Last Updated on October 16, 2021
 - [Payload Struggle Terminus Warning](https://gamebanana.com/sounds/53979)
 - [Pre-Jungle Inferno Weapon Sounds](https://gamebanana.com/sounds/39140)
 - [QeaML's Supply Closet Sound](https://gamebanana.com/sounds/32143)
-- [TF2 Casual Lvl Up 5 Killstreak](https://gamebanana.com/sounds/49214)
 - [TF2C Class Selection](https://gamebanana.com/sounds/54000)
+- [Unused MvM Sounds](https://gamebanana.com/sounds/41860)
 - [Unused Upgrade Station Queue Music](https://gamebanana.com/sounds/50979)
 
 ### UI Mods
