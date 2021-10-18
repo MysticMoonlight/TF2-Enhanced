@@ -1,4 +1,14 @@
 ## Changelog
+### 4.2.1 "Bergentrückung" (October 19, 2021)
+Happy Halloween mortals! This is minor update for Mann vs. Machines gamemode, which adds unused MvM sound into the game and new, better killstreak sounds. This is the only codename to not feature TF2 related, to match the halloween atmosphere (It is actually one of music from the game 'Undertale')
+
+#### Additions
+- [Unused MvM Sounds](https://gamebanana.com/sounds/41860)
+- [Killstreak Announcer Voicelines](https://gamebanana.com/sounds/56867)
+
+#### Removal
+- [TF2 Casual Lvl Up 5 Killstreak](https://gamebanana.com/sounds/49214)
+
 ### 4.2 "Brimstone" (October 16, 2021)
 Happy Halloween mortals! Welcome to minor update of version 4 series. This change includes graphical improvements(Mainly TF2C to Live TF2 backports) and fixes. Starting from 4.2, **All HUDS.TF related mods are removed permanently and ended support for all mods from HUDS.TF.**
 
