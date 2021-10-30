@@ -1,4 +1,10 @@
 ## Changelog
+### Team Fortress 2: Enhanced 5.0 "Carnival of Carnage"
+Welcome to halloween, mortals! Here is little UI update to make MvM upgrade more better.
+
+#### Additions
+- [Alternate MvM Upgrade Icons](https://gamebanana.com/mods/330849)
+
 ### 4.2.1 "Bergentrückung" (October 19, 2021)
 Happy Halloween mortals! This is minor update for Mann vs. Machines gamemode, which adds unused MvM sound into the game and new, better killstreak sounds. This is the only codename to not feature TF2 related, to match the halloween atmosphere (It is actually one of music from the game 'Undertale')
 
