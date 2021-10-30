@@ -36,6 +36,7 @@ Last Updated on October 19, 2021
 
 ### UI Mods
 - [Alternate Class Portraits (Full Version)](https://gamebanana.com/mods/26024)
+- [Alternate MvM Upgrade Icons](https://gamebanana.com/mods/330849)
 - [Better In-Game Voice Chat Icons](https://gamebanana.com/mods/324990)
 - [Consistent Kill Icons fixed for Jungle Inferno](https://gamebanana.com/mods/26076)
 - [Improved Canteen Icons Revived](https://gamebanana.com/mods/25843)
