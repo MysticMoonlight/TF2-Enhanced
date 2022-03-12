@@ -1,3 +1,6 @@
+# This repository is obsolete
+We are now moving to [this repository](https://github.com/MysticMoonlight/EnhancedMod). This repo will remain archived.
+
 # Team Fortress 2: Enhanced 
 Team Fortress 2 Enhanced is the modpack focused on improving overall visuals and sound effects while keeping original TF2 atmosphere.
 
